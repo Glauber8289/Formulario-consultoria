@@ -10,7 +10,7 @@ E um projeto interessante pois podemos utiliza-lo até mesmo no nosso dia dia pa
 
 Desenvolvi o projeto utilizando a ide VS Code, porem rodei o projeto em um ambiente virtual o virtualenv 
 
-Caso queira testar o projeto em sua maquina siga estes passos,primeiro verifique se o virtualenv está baixado em sua maquina, abra o cmd e digite virtualenv --version, caso não apareça a versão do virtualenv e sinal que não possui caso não possua siga estes passos para instalar:
+Caso queira testar o projeto em sua maquina siga estes passos,primeiro verifique se o virtualenv está baixado em sua maquina, abra o cmd e digite virtualenv --version, caso não apareça a versão do virtualenv e sinal que não possui ele instalado em sua máquina, caso não possua siga estes passos para instalar:
 1º No seu cmd digite o comando pip install virtualenv, após isso o virtualenv será instalado.
 2ºbaixe o repositorio para sua maquina, abra a pasta e encontre o arquivo chamado PipFile, abra com o cmd ou git bach digite os seguintes comandos no terminal, pipenv shell e python main.py após isso o formulario sera aberto e você poderá testa-lo em sua maquina.
 
